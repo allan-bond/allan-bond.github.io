@@ -19,15 +19,6 @@ I have recently completed a Graduate Certificate in Data Science which I feel co
 - Bachelor of Biotechnology (Honours) / Bachelor of Innovation and Enterprise (Science & Technology), 2010
 
 ## Technical Skills
-
-- Python (Primary coding language)
-- R
-- SQL
-- Microsoft PowerBI
-- Tableau
-
-
-## Technical Skills
 - Python (Primary coding language)
 - R
 - SQL
