@@ -18,6 +18,14 @@ I have recently completed a Graduate Certificate in Data Science which I feel co
 - Master of Business Administration (MBA), 2015
 - Bachelor of Biotechnology (Honours) / Bachelor of Innovation and Enterprise (Science & Technology), 2010
 
+## Technical Skills
+
+- Python (Primary coding language)
+- R
+- SQL
+- Microsoft PowerBI
+- Tableau
+
 
 
 
