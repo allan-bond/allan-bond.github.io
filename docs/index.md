@@ -4,7 +4,7 @@ Welcome to my Data Science and Software Development portfolio
 
 I am currently in the early stages of filling this site with examples of my work and hope to have it up soon.
 
-If you are interested in getting in contact with me then I can be reached on [Linkedln](https://www.linkedin.com/in/allanbond/), [Twitter](https://twitter.com/allanjbond), or [GitHub](https://github.com/allan-bond).
+If you are interested in getting in contact with me then I can be reached on [Linkedln](https://www.linkedin.com/in/allanbond/), [Twitter](https://twitter.com/allanjbond), or check out my [GitHub](https://github.com/allan-bond).
 
 ## About me
 
