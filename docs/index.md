@@ -30,12 +30,7 @@ I have recently completed a Graduate Certificate in Data Science which I feel co
 
 ### Medium
 
-- [How many eggs will I get? Linear Regression can tell you (Published in MLearning.ai)](https://medium.com/mlearning-ai/how-many-eggs-will-i-get-linear-regression-can-tell-you-d7d0e5968a4c)
-- [Machine Learning for Kids — Decision Trees (Published in MLlearning.ai)](https://medium.com/mlearning-ai/machine-learning-for-kids-decision-trees-db9853dca27d)
-- [Teaching children programming using Minecraft](https://allanbond.medium.com/teaching-children-programming-using-minecraft-6a537d38f4dd)
-- [Data science for children— How to get them started](https://allanbond.medium.com/machine-learning-for-kids-1f47d656bee0)
-- [Creating a function to convert a month number to the season](https://allanbond.medium.com/creating-a-function-to-convert-a-month-number-to-the-season-a40237966ef3)
+<!-- BLOG-POST-LIST:START -->
 
-
-
+<!-- BLOG-POST-LIST:END -->
 
