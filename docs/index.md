@@ -35,3 +35,8 @@ I have recently completed a Graduate Certificate in Data Science which I feel co
 - [Teaching children programming using Minecraft](https://allanbond.medium.com/teaching-children-programming-using-minecraft-6a537d38f4dd)
 - [Data science for children— How to get them started](https://allanbond.medium.com/machine-learning-for-kids-1f47d656bee0)
 - [Creating a function to convert a month number to the season](https://allanbond.medium.com/creating-a-function-to-convert-a-month-number-to-the-season-a40237966ef3)
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
