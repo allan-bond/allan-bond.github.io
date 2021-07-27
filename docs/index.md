@@ -30,9 +30,9 @@ I have recently completed a Graduate Certificate in Data Science which I feel co
 
 ### Medium
 <!-- BLOG-POST-LIST:START -->
+- [Supervised, unsupervised, and reinforcement learning. The three pillars of machine learning.](https://medium.com/mlearning-ai/supervised-unsupervised-and-reinforcement-learning-the-three-pillars-of-machine-learning-fd898f0c7c81?source=rss-9e4019ede54a------2)
 - [How many eggs will I get? Linear Regression can tell you.](https://medium.com/mlearning-ai/how-many-eggs-will-i-get-linear-regression-can-tell-you-d7d0e5968a4c?source=rss-9e4019ede54a------2)
 - [Machine Learning for Kids — Decision Trees](https://medium.com/mlearning-ai/machine-learning-for-kids-decision-trees-db9853dca27d?source=rss-9e4019ede54a------2)
 - [Teaching children programming using Minecraft](https://allanbond.medium.com/teaching-children-programming-using-minecraft-6a537d38f4dd?source=rss-9e4019ede54a------2)
 - [Data science for children- How to get them started](https://allanbond.medium.com/machine-learning-for-kids-1f47d656bee0?source=rss-9e4019ede54a------2)
-- [Creating a function to convert a month number to the season](https://allanbond.medium.com/creating-a-function-to-convert-a-month-number-to-the-season-a40237966ef3?source=rss-9e4019ede54a------2)
 <!-- BLOG-POST-LIST:END -->
