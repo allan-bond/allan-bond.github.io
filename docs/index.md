@@ -30,9 +30,9 @@ I have recently completed a Graduate Certificate in Data Science which I feel co
 
 ### Medium
 <!-- BLOG-POST-LIST:START -->
+- [Data Science for Kids — Correlation vs Causation](https://medium.com/mlearning-ai/data-science-for-kids-correlation-vs-causation-20fc8f7e5d9c?source=rss-9e4019ede54a------2)
 - [Wait is that a Monet? Or is the computer at it a-GAN!](https://medium.com/mlearning-ai/wait-is-that-a-monet-or-is-the-computer-at-it-a-gan-b9a56006a013?source=rss-9e4019ede54a------2)
 - [Supervised, unsupervised, and reinforcement learning. The three pillars of machine learning.](https://medium.com/mlearning-ai/supervised-unsupervised-and-reinforcement-learning-the-three-pillars-of-machine-learning-fd898f0c7c81?source=rss-9e4019ede54a------2)
 - [How many eggs will I get? Linear Regression can tell you.](https://medium.com/mlearning-ai/how-many-eggs-will-i-get-linear-regression-can-tell-you-d7d0e5968a4c?source=rss-9e4019ede54a------2)
 - [Machine Learning for Kids — Decision Trees](https://medium.com/mlearning-ai/machine-learning-for-kids-decision-trees-db9853dca27d?source=rss-9e4019ede54a------2)
-- [Teaching children programming using Minecraft](https://allanbond.medium.com/teaching-children-programming-using-minecraft-6a537d38f4dd?source=rss-9e4019ede54a------2)
 <!-- BLOG-POST-LIST:END -->
